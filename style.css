@@ -1,0 +1,72 @@
+
+/*Element Selectors*/
+h1{
+    border: 2px solid black;
+    text-align: center ;
+     
+}
+ #navigation{
+    text-align:center;
+    font-weight: bold;
+    margin-bottom: 1%; 
+    padding: 10px;
+    }
+.image1{
+  width: 200px;
+  height: 200px;
+  float:right;
+ }
+.image2{
+    width:100px;
+    height: 100px;
+
+}
+.section1{
+    border: 3px dashed darkolivegreen;
+    height: 200px;
+    padding: 10px;
+}
+.section2{
+    border: 3px dashed darkgoldenrod;
+    margin: 1px;
+    padding: 10px;
+}
+.h2{
+    color: rgb(205, 86, 50);
+
+}
+.section3{
+    border:3px dashed darkcyan;
+    margin:1px;
+    padding: 10px;
+
+}
+
+.h3{
+    color:rgb(171, 9, 17);
+}
+.section4{
+    border:3px dashed darkslategray;
+    margin:1px
+    
+}
+label, input{
+    width: 150px;
+    margin-bottom:10px;
+}
+textarea{
+    width: 500px;
+    height: 200px;
+    margin: 20px;
+}
+
+body{
+    background-image: url(./images\ \(1\).jpeg);
+    background-size:contain;
+    background-repeat: none;
+    padding: 20px;
+    margin:auto;
+    padding: 10px;
+}
+
+
